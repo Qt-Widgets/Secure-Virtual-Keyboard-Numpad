@@ -5,22 +5,22 @@ Virtual keyboard is a widget behaving exactly as a keyboard for any input using 
 
 ## Usability
 Virtual keyboard is very useful in following, but not limited to, scenarios:
-a. Security sensitive information input
-b. Tablet PCs
+* Security sensitive information input
+* Tablet PCs
 
 ## Features
 Following is a list of most important features for Virtual Keyboard:
-a. Real keyboard looks
-b. Adjustable transparency
-c. Security
-d. Easy integration with any Qt application
+* Real keyboard looks
+* Adjustable transparency
+* Security
+* Easy integration with any Qt application
 
 ## Version 1.1:
-a. Click Sound
-b. Print Screen
+* Click Sound
+* Print Screen
 
 ## Version 1.2:
-a. Show/Hide Numeric Key Pad.
+* Show/Hide Numeric Key Pad.
 
 ![](https://github.com/Qt-Widgets/Secure-Virtual-Keyboard-Numpad/blob/master/screenshot.png)
 
